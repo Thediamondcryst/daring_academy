@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/week_1.rpy", line 1509: end of line expected.
+    jump amelia_hug_day_2 with dissolve
+                          ^
+
+Ren'Py Version: Ren'Py 7.4.2.1292
+Fri Feb 26 01:03:17 2021
